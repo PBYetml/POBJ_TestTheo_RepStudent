@@ -1,0 +1,10 @@
+C:\Users\joamarques\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\joamarques\source\repos\test\test\bin\Debug\test.exe
+C:\Users\joamarques\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\joamarques\source\repos\test\test\obj\Debug\Q3_JMS.csprojAssemblyReference.cache
+C:\Users\joamarques\source\repos\test\test\obj\Debug\test.Form1.resources
+C:\Users\joamarques\source\repos\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\joamarques\source\repos\test\test\obj\Debug\Q3_JMS.csproj.GenerateResource.cache
+C:\Users\joamarques\source\repos\test\test\obj\Debug\Q3_JMS.csproj.CoreCompileInputs.cache
+C:\Users\joamarques\source\repos\test\test\obj\Debug\test.exe
+C:\Users\joamarques\source\repos\test\test\obj\Debug\test.pdb

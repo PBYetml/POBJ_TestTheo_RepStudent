@@ -1,0 +1,11 @@
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.csprojAssemblyReference.cache
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.csproj.CoreCompileInputs.cache
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.AssemblyInfoInputs.cache
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.AssemblyInfo.cs
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\bin\Debug\netcoreapp2.2\Question6.deps.json
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\bin\Debug\netcoreapp2.2\Question6.runtimeconfig.json
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\bin\Debug\netcoreapp2.2\Question6.runtimeconfig.dev.json
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\bin\Debug\netcoreapp2.2\Question6.dll
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\bin\Debug\netcoreapp2.2\Question6.pdb
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.dll
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\POBJ\TEST-26.04.2023\Question6\obj\Debug\netcoreapp2.2\Question6.pdb

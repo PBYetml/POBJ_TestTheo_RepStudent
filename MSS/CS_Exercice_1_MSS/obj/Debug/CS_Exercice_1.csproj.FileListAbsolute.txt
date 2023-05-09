@@ -1,0 +1,10 @@
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\bin\Debug\CS_Exercice_1.exe.config
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\bin\Debug\CS_Exercice_1.exe
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\bin\Debug\CS_Exercice_1.pdb
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.csproj.AssemblyReference.cache
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.Form1.resources
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.Properties.Resources.resources
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.csproj.GenerateResource.cache
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.csproj.CoreCompileInputs.cache
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.exe
+E:\ETML-ES\POBJ\CS\CS_Exercice_1\obj\Debug\CS_Exercice_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\bin\Debug\Exercice_4.exe.config
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\bin\Debug\Exercice_4.exe
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\bin\Debug\Exercice_4.pdb
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.csprojAssemblyReference.cache
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.Form1.resources
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.Properties.Resources.resources
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.csproj.GenerateResource.cache
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.csproj.CoreCompileInputs.cache
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.exe
+C:\Users\pd55xhr\OneDrive - Education Vaud\Semestre 3\pogobj\exercices\C#\Exercice_4\obj\Debug\Exercice_4.pdb

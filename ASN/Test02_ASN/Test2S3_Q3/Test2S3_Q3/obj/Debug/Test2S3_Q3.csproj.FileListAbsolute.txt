@@ -1,0 +1,9 @@
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\bin\Debug\Test2S3_Q3.exe.config
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\bin\Debug\Test2S3_Q3.exe
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\bin\Debug\Test2S3_Q3.pdb
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.Form1.resources
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.Properties.Resources.resources
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.csproj.GenerateResource.cache
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.csproj.CoreCompileInputs.cache
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.exe
+C:\Users\alesteffen\Desktop\Test2S3_Q3\Test2S3_Q3\obj\Debug\Test2S3_Q3.pdb
