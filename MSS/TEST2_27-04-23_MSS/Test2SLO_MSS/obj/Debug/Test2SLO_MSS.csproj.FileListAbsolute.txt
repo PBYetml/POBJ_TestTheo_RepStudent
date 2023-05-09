@@ -1,0 +1,10 @@
+C:\Users\migsantos\source\repos\Test2SLO_MSS\bin\Debug\Test2SLO_MSS.exe.config
+C:\Users\migsantos\source\repos\Test2SLO_MSS\bin\Debug\Test2SLO_MSS.exe
+C:\Users\migsantos\source\repos\Test2SLO_MSS\bin\Debug\Test2SLO_MSS.pdb
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.csproj.AssemblyReference.cache
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.Form1.resources
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.Properties.Resources.resources
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.csproj.GenerateResource.cache
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.csproj.CoreCompileInputs.cache
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.exe
+C:\Users\migsantos\source\repos\Test2SLO_MSS\obj\Debug\Test2SLO_MSS.pdb
