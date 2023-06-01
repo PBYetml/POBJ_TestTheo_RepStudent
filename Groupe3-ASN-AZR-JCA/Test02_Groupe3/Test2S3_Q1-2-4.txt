@@ -11,7 +11,8 @@ Question 2: Parmi les affirmations ci-dessous, cochez les réponses qui vous sem
 Question 4:
 
 public class Test2Exo5
-{
+{	
+	private enum e_states {INIT, WAIT, EXECUTE};
 	private void Ex5TestSlo(e_states m_states)
 	{
 		e_states m_states = e_states.INIT;

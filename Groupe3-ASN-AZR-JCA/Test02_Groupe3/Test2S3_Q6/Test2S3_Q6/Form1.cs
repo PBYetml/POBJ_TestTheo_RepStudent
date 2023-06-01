@@ -22,7 +22,7 @@ namespace Test2S3_Q6
 
         }
 
-        void CalculMoyennePOBJ(ref int nbrNotemax, float[] ptTbNote, out float moyennne)
+        void CalculMoyennePOBJ(ref int nbrNotemax, in float[] ptTbNote, out float moyennne)
         {
             int increment;
             float sommeNote = 0;
