@@ -22,14 +22,14 @@ namespace Test2S3_Q6
 
         }
 
-        void CalculMoyennePOBJ(ref int nbrNotemax, ref float ptTbNote[], out float moyennne)
+        void CalculMoyennePOBJ(ref int nbrNotemax, ref float[] ptTbNote, out float moyennne)
         {
             int increment;
             float sommeNote = 0;
 
             for (increment = 0; increment < nbrNotemax; increment++)
             {
-                sommeNote += ptTbNote.[increment];
+                sommeNote += ptTbNote[increment];
             }
             moyennne = sommeNote / nbrNotemax;
         }
