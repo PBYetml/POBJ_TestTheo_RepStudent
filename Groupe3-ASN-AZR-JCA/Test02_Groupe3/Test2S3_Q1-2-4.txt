@@ -1,0 +1,35 @@
+Question 1: Quels sont les éléments liés à un objet en C# ?
+	Ce sont des méthodes, propriété, attibut ou événement qui peuvent affecter l'objet.
+
+Question 2: Parmi les affirmations ci-dessous, cochez les réponses qui vous semble correcte
+
+	Faux -> En C#, il est facile de modifier les adresses des pointeurs
+	Faux -> En C#, un objet est directement détruit lorsque son destructeur est appelé
+	Vrai -> Les instruction ci-dessous provoqueront une erreur à la compilation d'un projet en C#
+	Faux -> La déclaration d'un tableau en C# se fait de la manière suivante: int *tableau = new int[10];
+
+Question 4:
+
+public class Test2Exo5
+{
+	private void Ex5TestSlo(e_states m_states)
+	{
+		e_states m_states = e_states.INIT;
+		//-- simulation machine d'état --//
+		switch(m_states)
+		{
+			case e_states.INIT:
+				System.Console.WriteLine("Actication Etat Initialisation");
+				break;
+			case e_states.WAIT:
+				System.Console.WriteLine("Activation Etat Attente");
+				break;
+			case e_states.EXECUTE:
+				System.Console.WriteLine("Activation Etat Execution");
+				break;
+			default:
+				System.Console.WriteLine("Pas d'état Activé");
+				break;
+		}
+	}
+}

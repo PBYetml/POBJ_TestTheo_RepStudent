@@ -23,18 +23,25 @@ namespace Test2S3_Q5
         {
 
             /*  Premier point   */
-            char ValNumUnicode = '\u0031';
+            short ValNumUnicode;
+            char ValCharUnicode = '\u0031';
+            ValNumUnicode = (short)ValCharUnicode;
 
             /*  Troisième point */
             uint valX = 0xFF00FF00;
             valX = ~valX;
 
             /*  Quatrième point   */
-            char tbChar[];
+            char[] tbChar = {};
+
+            foreach(char c in tbChar)
+            {
+                Console.Write("{0}", c);
+            }
         }
 
         /*  Deuxième point   */
-        private void CalculerEchantillon(sbyte Amp, float tbEchantillon[])
+        private void CalculerEchantillon(sbyte Amp, float[] tbEchantillon)
         {
 
         }
