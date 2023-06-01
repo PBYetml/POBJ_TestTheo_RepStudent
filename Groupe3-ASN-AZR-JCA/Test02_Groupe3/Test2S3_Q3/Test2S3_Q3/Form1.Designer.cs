@@ -37,46 +37,47 @@ namespace Test2S3_Q3
             // RbSignalSinus
             // 
             this.RbSignalSinus.AutoSize = true;
-            this.RbSignalSinus.Location = new System.Drawing.Point(33, 28);
+            this.RbSignalSinus.Location = new System.Drawing.Point(66, 54);
+            this.RbSignalSinus.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.RbSignalSinus.Name = "RbSignalSinus";
-            this.RbSignalSinus.Size = new System.Drawing.Size(85, 17);
+            this.RbSignalSinus.Size = new System.Drawing.Size(165, 29);
             this.RbSignalSinus.TabIndex = 0;
             this.RbSignalSinus.TabStop = true;
             this.RbSignalSinus.Text = "radioButton1";
             this.RbSignalSinus.UseVisualStyleBackColor = true;
-            this.RbSignalSinus.CheckedChanged += new System.EventHandler(this.RbSignalSinus_CheckedChanged);
             // 
             // RbSignalTTL
             // 
             this.RbSignalTTL.AutoSize = true;
-            this.RbSignalTTL.Location = new System.Drawing.Point(33, 51);
+            this.RbSignalTTL.Location = new System.Drawing.Point(66, 98);
+            this.RbSignalTTL.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.RbSignalTTL.Name = "RbSignalTTL";
-            this.RbSignalTTL.Size = new System.Drawing.Size(85, 17);
+            this.RbSignalTTL.Size = new System.Drawing.Size(165, 29);
             this.RbSignalTTL.TabIndex = 1;
             this.RbSignalTTL.TabStop = true;
             this.RbSignalTTL.Text = "radioButton2";
             this.RbSignalTTL.UseVisualStyleBackColor = true;
-            this.RbSignalTTL.CheckedChanged += new System.EventHandler(this.RbSignalTTL_CheckedChanged);
             // 
             // CbOffset
             // 
             this.CbOffset.AutoSize = true;
-            this.CbOffset.Location = new System.Drawing.Point(139, 29);
+            this.CbOffset.Location = new System.Drawing.Point(278, 56);
+            this.CbOffset.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.CbOffset.Name = "CbOffset";
-            this.CbOffset.Size = new System.Drawing.Size(80, 17);
+            this.CbOffset.Size = new System.Drawing.Size(150, 29);
             this.CbOffset.TabIndex = 2;
             this.CbOffset.Text = "checkBox1";
             this.CbOffset.UseVisualStyleBackColor = true;
-            this.CbOffset.CheckedChanged += new System.EventHandler(this.CbOffset_CheckedChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 139);
+            this.ClientSize = new System.Drawing.Size(584, 267);
             this.Controls.Add(this.CbOffset);
             this.Controls.Add(this.RbSignalTTL);
             this.Controls.Add(this.RbSignalSinus);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

@@ -16,25 +16,12 @@ namespace Test2S3_Q3
         {
             InitializeComponent();
 
-            CbOffset.Text = "Offset";
             RbSignalSinus.Text = "Sinus";
+            RbSignalSinus.Checked = false;
             RbSignalTTL.Text = "TTL";
             RbSignalTTL.Checked = true;
-        }
-
-        private void RbSignalSinus_CheckedChanged(object sender, EventArgs e)
-        {
-            CbOffset.Enabled = true;
-        }
-
-        private void RbSignalTTL_CheckedChanged(object sender, EventArgs e)
-        {
+            CbOffset.Text = "Offset";
             CbOffset.Enabled = false;
-        }
-
-        private void CbOffset_CheckedChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
