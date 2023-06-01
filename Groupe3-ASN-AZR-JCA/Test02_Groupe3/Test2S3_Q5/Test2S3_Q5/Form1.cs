@@ -41,7 +41,7 @@ namespace Test2S3_Q5
         }
 
         /*  Deuxième point   */
-        private void CalculerEchantillon(sbyte Amp, float[] tbEchantillon)
+        private void CalculerEchantillon(sbyte Amp, ref float[] tbEchantillon)
         {
 
         }
