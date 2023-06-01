@@ -21,7 +21,7 @@ namespace Test2S3_Q3
             RbSignalTTL.Text = "TTL";
             RbSignalTTL.Checked = true;
             CbOffset.Text = "Offset";
-            CbOffset.Enabled = false;
+            CbOffset.Enabled = RbSignalSinus.Checked;
         }
     }
 }
