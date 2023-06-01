@@ -1,3 +1,5 @@
+//-- CORRECTION GROUPE 5 --//
+
 // -- TEST2 SLO QUESTION 4 --//
 // -- Miguel Santos --//
 
@@ -6,7 +8,12 @@
 
 public class Test2Exo5
 {
-	private enum e_states { INIT, WAIT, EXECUT };
+	private enum e_states
+	{
+		INIT = 1, 
+		WAIT = 2, 
+		EXECUT = 3 
+	};
 
 	private void Ex5TestSLO(e_states etat)
 	{

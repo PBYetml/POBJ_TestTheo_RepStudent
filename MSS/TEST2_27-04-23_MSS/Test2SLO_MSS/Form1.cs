@@ -1,4 +1,6 @@
-﻿// -- TEST2 SLO QUESTION 3 --//
+//-- CORRECTION GROUPE 5 --//
+
+// -- TEST2 SLO QUESTION 3 --//
 // -- Miguel Santos --//
 
 // Chemin d'accès :
@@ -21,10 +23,7 @@ namespace Test2SLO_MSS
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
+            
             rbSignalSinus.Text = "Sinus";
             rbSignalSinus.Checked = false;
 
@@ -33,22 +32,6 @@ namespace Test2SLO_MSS
 
             cbOffset.Text = "Offset";
             cbOffset.Enabled = rbSignalSinus.Checked;
-        }
-
-        private void rbSignalSinus_CheckedChanged(object sender, EventArgs e)
-        {
-            cbOffset.Enabled = rbSignalSinus.Checked;
-        }
-
-        public void CalculMoyennePOBJ(ref int nbrNoteMax, ref float [] ptTbNote, out float moyenne)
-        {
-            //-- Déclaration variable --//
-            int increment;
-            float sommeNote = 0;
-            for (increment = 0; increment < nbrNoteMax; increment++)
-                sommeNote += ptTbNote[increment];
-
-            moyenne = sommeNote / nbrNoteMax;
         }
     }
 }
