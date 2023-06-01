@@ -17,7 +17,7 @@ void CalculMoyennePOBJ(int *nbrNoteMax, float *ptTbNote, float *moyenne)
 }
 
 // NOUVELLE VERSION EN C#
-public void CalculMoyennePOBJ(ref int nbrNoteMax, ref float [] ptTbNote, out float moyenne)
+public void CalculMoyennePOBJ(ref int nbrNoteMax, const float[] ptTbNote, out float moyenne)
 {
 	//-- Déclaration variable --//
 	int increment;
