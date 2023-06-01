@@ -1,0 +1,10 @@
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.csprojAssemblyReference.cache
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.Form1.resources
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.Properties.Resources.resources
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.csproj.GenerateResource.cache
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.csproj.CoreCompileInputs.cache
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\bin\Debug\Test2S3_Q5.exe.config
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\bin\Debug\Test2S3_Q5.exe
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\bin\Debug\Test2S3_Q5.pdb
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.exe
+C:\Users\alesteffen\Desktop\Test2S3_Q5\Test2S3_Q5\obj\Debug\Test2S3_Q5.pdb
